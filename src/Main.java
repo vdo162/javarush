@@ -12,11 +12,14 @@ public class Main {
 
         console.nextLine();
         s1.equals(s2);
+        console.nextBoolean();
 
         console.hasNextInt();
         int s = console.nextInt();
         Integer.MIN_VALUE;
         Integer.MAX_VALUE;
+
+        (int) Math.round()
     */
     public static void main(String[] args) {
         System.out.println("Hello word!");
