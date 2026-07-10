@@ -20,6 +20,12 @@ public class Main {
         Integer.MAX_VALUE;
 
         (int) Math.round()
+
+
+        import java.util.Arrays;
+        Arrays.sort(array), .binarySearch(array, 5) и .toString(array)
+        Дефолтные: числа — 0, boolean — false, ссылочные типы — null
+        array.length
     */
     public static void main(String[] args) {
         System.out.println("Hello word!");

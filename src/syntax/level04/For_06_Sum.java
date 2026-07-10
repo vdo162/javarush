@@ -18,7 +18,9 @@ public class For_06_Sum {
 
         int sum = 0;
         for (int i = start; i < end; i++) {
-            if (i % multiple != 0) continue;
+            if (i % multiple != 0) {
+                continue;
+            }
             sum += i;
         }
 
