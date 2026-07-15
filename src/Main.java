@@ -12,8 +12,10 @@ public class Main {
 
         console.nextLine();
         s1.equals(s2);
+        s1.equalsIgnoreCase(s2)
         console.nextBoolean();
 
+        int s = Integer.parseInt(console.nextLine())
         console.hasNextInt();
         int s = console.nextInt();
         Integer.MIN_VALUE;
